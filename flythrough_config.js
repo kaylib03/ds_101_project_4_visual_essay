@@ -88,10 +88,10 @@ var config = {
             
             // Location data (creates the marker on map)
             location: {
-                name: 'JMU Location 1',      // Replace with location name from CSV
-                latitude: 38.4347,           // Must match camera coordinates
-                longitude: -78.8690,
-                postCount: 50,               // Look up in your whitepaper visualizations
+                name: 'JMU Quad',      // Replace with location name from CSV
+                latitude: 38.4384660831287,           // Must match camera coordinates
+                longitude: -78.8737744890588,
+                postCount: 1232,               // Look up in your whitepaper visualizations
                 robertaScore: 0.25,          // Look up in your whitepaper visualizations
                 isJMU: true
             },
