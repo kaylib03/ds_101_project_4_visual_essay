@@ -91,8 +91,8 @@ var config = {
                 name: 'JMU Quad',      // Replace with location name from CSV
                 latitude: 38.4384660831287,           // Must match camera coordinates
                 longitude: -78.8737744890588,
-                postCount: 1232,               // Look up in your whitepaper visualizations
-                robertaScore: 0.25,          // Look up in your whitepaper visualizations
+                postCount: 15,               // Look up in your whitepaper visualizations
+                robertaScore: 0.260,          // Look up in your whitepaper visualizations
                 isJMU: true
             },
             
