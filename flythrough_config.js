@@ -114,9 +114,9 @@ var config = {
             },
             
             location: {
-                name: 'JMU Location 2',
-                latitude: 38.4335,
-                longitude: -78.8715,
+                name: 'JMU Dining Hall',
+                latitude: 38.4376031479416,
+                longitude: -78.8722407506740,
                 postCount: 75,
                 robertaScore: -0.15,
                 isJMU: true
