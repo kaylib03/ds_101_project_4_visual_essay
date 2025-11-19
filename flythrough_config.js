@@ -140,11 +140,11 @@ var config = {
             },
             
             location: {
-                name: 'JMU Location 3',
-                latitude: 38.4390,
-                longitude: -78.8620,
-                postCount: 100,
-                robertaScore: 0.55,
+                name: 'JMU Village',
+                latitude: 38.4362196096253,
+                longitude: -78.8691155251157,
+                postCount: 16,
+                robertaScore: 0.080,
                 isJMU: true
             },
             
