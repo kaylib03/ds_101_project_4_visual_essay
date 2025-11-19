@@ -183,11 +183,11 @@ var config = {
             },
             
             location: {
-                name: 'UNC Location 1',
-                latitude: 35.9050,
-                longitude: -79.0470,
-                postCount: 60,
-                robertaScore: 0.30,
+                name: 'Palestine',
+                latitude: 31.9216,
+                longitude: 35.2033,
+                postCount: 23,
+                robertaScore: 0.351,
                 isJMU: false                 // UNC location
             },
             
@@ -209,11 +209,11 @@ var config = {
             },
             
             location: {
-                name: 'UNC Location 2',
-                latitude: 35.9060,
-                longitude: -79.0480,
-                postCount: 85,
-                robertaScore: -0.10,
+                name: 'Israel',
+                latitude: 31.0315,
+                longitude: 34.8027,
+                postCount: 62,
+                robertaScore: 0.484,
                 isJMU: false
             },
             
@@ -235,11 +235,11 @@ var config = {
             },
             
             location: {
-                name: 'UNC Location 3',
-                latitude: 35.9070,
-                longitude: -79.0490,
-                postCount: 95,
-                robertaScore: 0.40,
+                name: 'Gaza',
+                latitude: 31.5016,
+                longitude: 34.4667,
+                postCount: 16,
+                robertaScore: 0.544,
                 isJMU: false
             },
             
